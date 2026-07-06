@@ -1,4 +1,4 @@
-Groundwater as a buffer in the drought–conflict nexus (Sahel \& Horn of Africa)
+Groundwater as a buffer in the drought–conflict nexus (Sahel & Horn of Africa)
 
 
 
@@ -7,7 +7,7 @@ Groundwater as a buffer in the drought–conflict nexus (Sahel \& Horn of Africa
 
 
 ```
-📁 Structure
+📁 Structurea
 .
 ├── data/
 │   ├── raw/                         #  raw data
