@@ -1,7 +1,9 @@
 #==============================================================================
 # Script for data cleaning for population data
-
-
+# 
+# Data: GHSL-GHS-POP (Global Human Settlement Layer)
+#
+#
 #==============================================================================
 # Libraries and paths
 

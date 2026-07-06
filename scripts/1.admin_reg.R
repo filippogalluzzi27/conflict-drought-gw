@@ -1,7 +1,10 @@
 #==============================================================================
 # Sript for the creation of administrative regions
 # for Sahel + Horn of Africa
-
+#
+# Data: GADM (Database of Global Administrative Areas)
+#
+#
 #==============================================================================
 # Libraries and paths
 
